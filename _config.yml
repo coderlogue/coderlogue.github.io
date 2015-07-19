@@ -1,0 +1,29 @@
+# Site settings
+title: CoderLogue
+email: codelogue@gmail.com
+description: A blog for devlopers to get more into the coding.
+url: "http://coderlogue.com"
+twitter_username: coderlogue
+paginate: 4
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default Settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Sudarshan"
+      categories: "coding"
+      layout: "post"
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

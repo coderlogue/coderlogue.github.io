@@ -1,0 +1,13 @@
+// ==========================================================================
+// Hero
+// linear-gradient(#75da8f, #77cae9)
+// background-blend-mode: multiply;
+// ==========================================================================
+
+.hero {
+	height: 400px;
+	background: url('#{$path--rel}/fcapi.png');	       
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: em(50px);
+}

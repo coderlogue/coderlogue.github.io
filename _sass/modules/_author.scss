@@ -1,0 +1,49 @@
+// ==========================================================================
+// Author Descrition
+// ==========================================================================
+
+.author-box {
+  @extend %clearfix;
+  margin-top: em(20px);
+	border-top: 1px dotted palette(grey, light);
+	padding-top: em(38px);
+	@media (min-width: $brkpoint--md) {
+	  margin-top: em(42px);
+	}
+
+  a { 
+	  display: block;
+	  @media (min-width: $brkpoint--md) {
+ 	    float: left;
+  	  margin-top: em(5px);  
+	  }
+  }
+}
+
+.author {
+	@media (min-width: $brkpoint--md) {
+	  width: 74%;
+	  padding-left: em(40px);
+	  float: left;
+	}
+	@media (min-width: $brkpoint--md + 200) {
+	  width: 80%;
+	}
+
+	@include e(name) {
+	  color: palette(grey, x-dark);
+	  font-size: em(24px); 
+	  margin-bottom: em(6px); 
+	  display: block; 
+		@media (min-width: $brkpoint--sm) and (max-width: $brkpoint--md){
+      text-align: center;
+      margin-top: em(-12px);
+      margin-bottom: em(16px);
+		}
+
+	}
+
+	@include e(bio) {
+    font-size: em(16px);
+	}
+}

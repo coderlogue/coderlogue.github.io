@@ -1,0 +1,11 @@
+{% if author %}
+<div class="author-box">
+  <a href="https://twitter.com/{{ author.twitter }}">
+    <img class="img--avatar" src="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/img/authors/{{ author.img }}">
+  </a>
+  <div class="author">
+    <span class="author__name">{{ author.name }}</span>
+    <p class="author__bio">{{ author.bio }}</p>
+  </div>
+</div>
+{% endif %}
