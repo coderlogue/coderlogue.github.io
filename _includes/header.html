@@ -10,13 +10,15 @@
         <ul class="nav">
         {% for page in site.pages %}
           <!-- Compare the page title to the URL -->
-          {% assign current = page.title | downcase %}
-
-          {% if page.title %}
-          <!-- Highlight item if it matches the current URL -->
-          <li {% if location == current %} class="nav__item--current" {% else %} class="nav__item" {% endif %}>
-            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          </li>
+          {% if page.title and page.permalink != "/404.html" %}
+            {% assign current = page.title | downcase %}
+  
+            {% if page.title %}
+            <!-- Highlight item if it matches the current URL -->
+            <li {% if location == current %} class="nav__item--current" {% else %} class="nav__item" {% endif %}>
+              <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </li>
+            {% endif %}
           {% endif %}
           
         {% endfor %}
