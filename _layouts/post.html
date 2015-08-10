@@ -21,10 +21,10 @@ layout: default
 
     <article class="post__content">
       {{ content }}
-
-      {% include author-box.html %}
+     {% include author-box.html %}
     </article>
-{% if content and page.related %}
+    
+    {% if content and page.related %}
     <h2>Related Posts</h2>
     <ul>
     {% for post in site.posts %}
@@ -34,6 +34,7 @@ layout: default
     {% endfor %}
     </ul>
 {% endif %}
+
     {% include disqus.html disqus_identifier=page.disqus_identifier %}
    
 	</div>
