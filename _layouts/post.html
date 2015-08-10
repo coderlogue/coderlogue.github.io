@@ -18,25 +18,29 @@ layout: default
     {% if page.image %}
     <img class="img--feat is-hidden-mobile" src="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/img/{{ page.image }}/img/{{ page.image }}">
     {% endif %}
+    
+    
 
     <article class="post__content">
       {{ content }}
      {% include author-box.html %}
     </article>
     
-    {% if content and page.related %}
-<div class="related-posts">
-	<h2>Related Posts</h2>
-	<ul>
-	{% for post in site.posts %}
-		{% if page.related contains post.title %}
-		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-		{% endif %}
-	{% endfor %}
-	</ul>
-	
-</div>
-{% endif %}
+        {% if content and page.related %}
+		<div class="related-posts">
+			<h2>Related Posts</h2>
+			<ul>
+			{% for post in site.posts %}
+				{% if page.related contains post.title %}
+				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+			</ul>
+			
+		</div>
+	{% endif %}
+    
+
     
     {% include disqus.html disqus_identifier=page.disqus_identifier %}
    
