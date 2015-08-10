@@ -23,10 +23,7 @@ layout: default
 
     <article class="post__content">
       {{ content }}
-     {% include author-box.html %}
-    </article>
-    
-        {% if content and page.related %}
+       {% if content and page.related %}
 		<div class="related-posts">
 			<h2>Related Posts</h2>
 			<ul>
@@ -39,6 +36,10 @@ layout: default
 			
 		</div>
 	{% endif %}
+     {% include author-box.html %}
+    </article>
+    
+       
     
 
     
