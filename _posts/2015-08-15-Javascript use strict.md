@@ -36,13 +36,17 @@ You can use it either globally or within a function.
     
 {% endhighlight %}
 
-The expressions which declared globally or locally  helps in following ways 
-<ul>
-    <li>
-        Using a variable (property or object) without declaring it, is not allowed.
-    </li><li>
-        Defining a property more than once, is not allowed.
-    </li><li>
-        Duplicating a parameter name is not allowed.
-     </li>
-</ul>
+    <ul>
+      The expressions which declared globally or locally  helps in following ways 
+    
+        <li>
+            Using a variable (property or object) without declaring it, is not allowed.
+        </li>
+        <li>
+            Defining a property more than once, is not allowed.
+        </li>
+        <li>
+            Duplicating a parameter name is not allowed.
+         </li>
+         
+    </ul>
