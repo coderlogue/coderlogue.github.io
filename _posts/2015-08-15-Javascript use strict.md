@@ -37,10 +37,15 @@ You can use it either globally or within a function.
 {% endhighlight %}
 
 
-  <h3> The expressions which declared globally or locally  helps in following ways </h3>
+  <h4> The expressions which declared globally or locally  helps in following ways </h4>
    <i>
         Using a variable (property or object) without declaring it, is not allowed.
+   </i>
+   <i>
         Defining a property more than once, is not allowed.
-        Duplicating a parameter name is not allowed.
     </i>
+    <i>
+        Duplicating a parameter name is not allowed.
+     </i>
+
     
