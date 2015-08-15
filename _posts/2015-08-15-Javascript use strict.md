@@ -36,10 +36,9 @@ You can use it either globally or within a function.
     
 {% endhighlight %}
 
-    <ul style="list-style-type: square;">
+<ul style="list-style-type: square;">
     
-      The expressions which declared globally or locally  helps in following ways 
-    
+        The expressions which declared globally or locally  helps in following ways 
         <li>
             Using a variable (property or object) without declaring it, is not allowed.
         </li>
@@ -48,6 +47,6 @@ You can use it either globally or within a function.
         </li>
         <li>
             Duplicating a parameter name is not allowed.
-         </li>
+        </li>
          
-    </ul>
+</ul>
