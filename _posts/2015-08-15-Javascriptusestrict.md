@@ -30,7 +30,9 @@ function doSomething() {
 
 The expressions which declared globally or locally  helps in following ways 
 
-Using a variable (property or object) without declaring it, is not allowed
-Defining a property more than once, is not allowed
-Duplicating a parameter name is not allowed
+* Using a variable (property or object) without declaring it, is not allowed.
+
+* Defining a property more than once, is not allowed.
+
+* Duplicating a parameter name is not allowed.
 
