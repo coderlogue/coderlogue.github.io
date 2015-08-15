@@ -8,7 +8,7 @@ Javascript being a loosely typed language we always have a privilege mode to ens
 This can be done by using  an expresssion called "Use Strict" which helps to throw and catch errors where ever needed.
 
 
-<h3>How to use ??</h3>
+<h2>How to use ??</h2>
 
 Adding “use strict” as the first statement¹ in your JavaScript code will enforce Strict Mode over the entire source…
 
@@ -21,7 +21,7 @@ var x =" coderlogue";
 
 You can use it either globally or within a function. 
 
-<h3>How to use in function ?</h3>
+<h2>How to use in function ?</h2>
 
 function doSomething() {
 
@@ -32,10 +32,12 @@ function doSomething() {
 
 
 The expressions which declared globally or locally  helps in following ways 
-
-* Using a variable (property or object) without declaring it, is not allowed.
-
-* Defining a property more than once, is not allowed.
-
-* Duplicating a parameter name is not allowed.
-
+<ul>
+    <li>
+        Using a variable (property or object) without declaring it, is not allowed.
+    </li><li>
+        Defining a property more than once, is not allowed.
+    </li><li>
+        Duplicating a parameter name is not allowed.
+     </li>
+</ul>
