@@ -8,7 +8,7 @@ Javascript being a loosely typed language we always have a privilege mode to ens
 This can be done by using  an expresssion called "Use Strict" which helps to throw and catch errors where ever needed.
 
 
-How to use ??
+<h3>How to use ??</h3>
 
 Adding “use strict” as the first statement¹ in your JavaScript code will enforce Strict Mode over the entire source…
 
@@ -21,7 +21,7 @@ var x =" coderlogue";
 
 You can use it either globally or within a function. 
 
-How to use in function ?
+<h3>How to use in function ?</h3>
 
 function doSomething() {
 
