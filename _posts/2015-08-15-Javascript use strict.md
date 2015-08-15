@@ -36,17 +36,11 @@ You can use it either globally or within a function.
     
 {% endhighlight %}
 
-<ul style="list-style-type: square;">
+
+  <h3> The expressions which declared globally or locally  helps in following ways </h3>
+   <i>
+        Using a variable (property or object) without declaring it, is not allowed.
+        Defining a property more than once, is not allowed.
+        Duplicating a parameter name is not allowed.
+    </i>
     
-        The expressions which declared globally or locally  helps in following ways 
-        <li>
-            Using a variable (property or object) without declaring it, is not allowed.
-        </li>
-        <li>
-            Defining a property more than once, is not allowed.
-        </li>
-        <li>
-            Duplicating a parameter name is not allowed.
-        </li>
-         
-</ul>
