@@ -38,6 +38,7 @@ You can use it either globally or within a function.
 
 
   <b> The expressions which declared globally or locally  helps in following ways </b>
+   <br/>
    <i>
         Using a variable (property or object) without declaring it, is not allowed.
    </i>
