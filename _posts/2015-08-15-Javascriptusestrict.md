@@ -1,6 +1,7 @@
 ---
 title:  "Javascript Use Strict"
 author: Sanjay
+layout: post
 ---
 
 Javascript being a loosely typed language we always have a privilege mode to ensure our code is syntactically correct.
