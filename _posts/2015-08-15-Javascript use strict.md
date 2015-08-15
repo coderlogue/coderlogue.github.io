@@ -24,8 +24,10 @@ You can use it either globally or within a function.
 How to use in function ?
 
 function doSomething() {
+
     "use strict";
     // this runs in strict mode
+    
 }
 
 
