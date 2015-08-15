@@ -10,7 +10,7 @@ This can be done by using  an expresssion called "Use Strict" which helps to thr
 
 <h2>How to use it Globally ?</h2>
 
-Adding “use strict” as the first statement¹ in your JavaScript code will enforce Strict Mode over the entire source…
+Adding “use strict” as the first statement in your JavaScript code will enforce Strict Mode over the entire source…
 
 {% highlight html %}
 
@@ -38,9 +38,10 @@ You can use it either globally or within a function.
 
 
 The expressions which declared globally or locally  helps in following ways 
-Using a variable (property or object) without declaring it, is not allowed.
-Defining a property more than once, is not allowed.
-Duplicating a parameter name is not allowed.
+
+-->Using a variable (property or object) without declaring it, is not allowed.
+-->Defining a property more than once, is not allowed.
+-->Duplicating a parameter name is not allowed.
         
 
     
