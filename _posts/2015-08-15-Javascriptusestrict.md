@@ -13,7 +13,9 @@ How to use ??
 Adding “use strict” as the first statement¹ in your JavaScript code will enforce Strict Mode over the entire source…
 
 // declared globally 
+
 "use strict";
+
 var x =" coderlogue"
 
 You can use it either globally or within a function. 
