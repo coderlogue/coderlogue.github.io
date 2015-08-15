@@ -1,4 +1,12 @@
-avascript being a loosely typed language we always have a privilege mode to ensure our code is syntactically correct. .This can be done by using  an expresssion called "Use Strict" which helps to throw and catch errors where ever needed.
+
+---
+title:  "Javascript Use Script"
+layout: post
+author: sanjay 
+---
+
+
+Javascript being a loosely typed language we always have a privilege mode to ensure our code is syntactically correct. .This can be done by using  an expresssion called "Use Strict" which helps to throw and catch errors where ever needed.
 
 How to use ??
 
