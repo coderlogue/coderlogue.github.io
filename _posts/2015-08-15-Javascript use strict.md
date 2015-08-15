@@ -13,23 +13,27 @@ This can be done by using  an expresssion called "Use Strict" which helps to thr
 Adding “use strict” as the first statement¹ in your JavaScript code will enforce Strict Mode over the entire source…
 
 {% highlight html %}
+
     // declared globally 
     
     "use strict";
     
     var x =" coderlogue";
+    
 {% endhighlight %}
 
 You can use it either globally or within a function. 
 
 <h2>How to use in function ?</h2>
 {% highlight html %}
+
     function doSomething() {
     
         "use strict";
         // this runs in strict mode
         
     }
+    
 {% endhighlight %}
 
 The expressions which declared globally or locally  helps in following ways 
