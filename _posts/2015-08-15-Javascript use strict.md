@@ -36,7 +36,8 @@ You can use it either globally or within a function.
     
 {% endhighlight %}
 
-    <ul>
+    <ul style="list-style-type: square;">
+    
       The expressions which declared globally or locally  helps in following ways 
     
         <li>
