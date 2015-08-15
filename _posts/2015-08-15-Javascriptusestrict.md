@@ -1,6 +1,6 @@
 
 ---
-title:  "Javascript Use Script"
+title:  "Javascript Use Strict"
 layout: post
 author: sanjay 
 ---
