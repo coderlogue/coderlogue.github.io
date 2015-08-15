@@ -17,7 +17,7 @@ Adding “use strict” as the first statement¹ in your JavaScript code will en
 
 "use strict";
 
-var x =" coderlogue"
+var x =" coderlogue";
 
 You can use it either globally or within a function. 
 
