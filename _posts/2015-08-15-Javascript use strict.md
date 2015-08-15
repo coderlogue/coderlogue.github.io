@@ -8,7 +8,7 @@ Javascript being a loosely typed language we always have a privilege mode to ens
 This can be done by using  an expresssion called "Use Strict" which helps to throw and catch errors where ever needed.
 
 
-<h2>How to use ??</h2>
+<h2>How to use it Globally ?</h2>
 
 Adding “use strict” as the first statement¹ in your JavaScript code will enforce Strict Mode over the entire source…
 
@@ -24,7 +24,7 @@ Adding “use strict” as the first statement¹ in your JavaScript code will en
 
 You can use it either globally or within a function. 
 
-<h2>How to use in function ?</h2>
+<h2>How to use it Locally (In Functions) ?</h2>
 {% highlight html %}
 
     function doSomething() {
