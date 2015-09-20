@@ -54,12 +54,6 @@ prose:
             element: "text"
             label: "Permalink"
             value: ""
-      - name: "image"
-        field:
-          element: "text"
-          label: "Add Image to Post"
-          placeholder: "Image path (relative to /assets/post-images/)"
-          alterable: true
       - name: "published"
         field:
           element: "checkbox"
