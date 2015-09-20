@@ -2,7 +2,7 @@
 title: CoderLogue
 email: codelogue@gmail.com
 description: A blog for devlopers to get more into the coding.
-url: "http://coderlogue.com"
+url: "http://www.coderlogue.com"
 twitter_username: coderlogue
 paginate: 4
 
@@ -27,3 +27,42 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://www.coderlogue.com/'
+  relativeLinks: 'http://www.coderlogue.com/links.jsonp'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "permalink"
+          field:
+            element: "text"
+            label: "Permalink"
+            value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "Add Image to Post"
+          placeholder: "Image path (relative to /assets/post-images/)"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+      
