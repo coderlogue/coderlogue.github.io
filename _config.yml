@@ -48,15 +48,7 @@ prose:
           element: "text"
           label: "Post title"
           placeholder: "Title"
-          alterable: true
-      - name: "permalink"
-          field:
-            element: "text"
-            label: "Permalink"
-            value: ""
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Published"
-          value: false
+         
+     
+     
       
