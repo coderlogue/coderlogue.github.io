@@ -21,7 +21,6 @@ This method does not change the original array.
 
 str.slice(3, 7) extracts the fourth character through the seventh character of an array.(where characters indexed 3,4, 5, and 6).
 
-
 ### Code Snippets: ###
 {% highlight html %}
 /*
