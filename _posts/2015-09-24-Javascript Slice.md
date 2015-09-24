@@ -1,6 +1,6 @@
 ---
 title: Javascript Slice()
-author: sudarshan
+author: Sudarshan
 layout: post
 ---
 ![cover-image](/img/jslice.png)
