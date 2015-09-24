@@ -3,9 +3,9 @@ title: Javascript Slice()
 author: Sudarshan
 layout: post
 ---
-![cover-image](/img/jslice.png)
-
 The slice() method is used to extract a section of an array.Selected elements of the original array are copied into a new array.
+
+![cover-image](/img/jslice.png)
 
 ### Syntax: ###
 slice(beginslice, endslice) 
