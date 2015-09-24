@@ -1,0 +1,14 @@
+{
+  "name": "Coder Logue",
+  "description": "A Programmers Friendly Guide to master the Programming Languages",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "sudarshan",
+    "url": "https://plus.google.com/u/0/+kurrisudarshanreddy/about"
+  },
+  "default_locale": "en"
+}
