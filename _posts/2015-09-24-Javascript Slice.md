@@ -5,7 +5,7 @@ layout: post
 ---
 The slice() method is used to extract a section of an array.Selected elements of the original array are copied into a new array.
 
-
+[Image description]
 
 ### Syntax: ###
 slice(beginslice, endslice) 
@@ -51,3 +51,4 @@ Coder Logue is built using
 */
 {% endhighlight %}
 
+[Image description]: /img/jslice.png
