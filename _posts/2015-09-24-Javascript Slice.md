@@ -5,7 +5,7 @@ layout: post
 ---
 The slice() method is used to extract a section of an array.Selected elements of the original array are copied into a new array.
 
-{% img /img/slice.jpg 750 250 'Javascript Slice' %}
+
 
 ### Syntax: ###
 slice(beginslice, endslice) 
