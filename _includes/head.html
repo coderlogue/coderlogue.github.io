@@ -2,6 +2,18 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+    <meta name="application-name" content="{{site.title}}"/>
+    <meta name="msapplication-TileColor" content="#00acff"/>
+    {% if site.logo %}
+    <meta name="msapplication-square70x70logo" content="{{site.logo}}"/>
+    <meta name="msapplication-square150x150logo" content="{{site.logo}}"/>
+    <meta name="msapplication-wide310x150logo" content="{{site.logo}}"/>
+    <meta name="msapplication-square310x310logo" content="{{site.logo}}"/>
+    {% endif %}
+    <meta name="msapplication-notification" content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed={{site.url}}/atom.xml&amp;id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed={{site.url}}/atom.xml&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed={{site.url}}/atom.xml&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed={{site.url}}/atom.xml&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed={{site.url}}/atom.xml&amp;id=5; cycle=1"/>
+    
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
