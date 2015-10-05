@@ -5,6 +5,7 @@ description: A blog for devlopers to get more into the coding.
 url: "http://www.coderlogue.com"
 twitter_username: coderlogue
 paginate: 4
+logo: img/icon-512.png
 
 # Build settings
 markdown: kramdown
