@@ -1,16 +1,17 @@
+---
+---
 CACHE MANIFEST
 
 # VERSION 10
 
 CACHE:
-index.html
-_site/index.html
-_site/about/index.html
-_site/contact/index.html
-_site/demos/index.html
-_site/resources/index.html
-_site/css/main.css
-_site/img/jslicesumanth.png
-_site/img/authors/sudarshan.jpg
-_site/img/authors/sanjay.jpg
-_site/img/authors/sumanth.jpg
+{% asset_path all.css %}
+{% for page in site.pages %}{% if page.url != '/mycache.manifest' %}{{ page.url }}{% endif %}
+{% endfor %}
+{% for item in site.images %}{{ item.url }}
+{% endfor %}
+{% for item in site.scripts %}{{ item.url }}
+{% endfor %}
+
+NETWORK:
+*
