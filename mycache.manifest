@@ -1,1 +1,16 @@
+CACHE MANIFEST
 
+# VERSION 10
+
+CACHE:
+index.html
+_site/index.html
+_site/about/index.html
+_site/contact/index.html
+_site/demos/index.html
+_site/resources/index.html
+_site/css/main.css
+_site/img/jslicesumanth.png
+_site/img/authors/sudarshan.jpg
+_site/img/authors/sanjay.jpg
+_site/img/authors/sumanth.jpg
