@@ -6,7 +6,7 @@ CACHE MANIFEST
 
 CACHE:
 {% asset_path all.css %}
-{% for page in site.pages %}{% if page.url != '/mycache.manifest' %}{{ page.url }}{% endif %}
+{% for page in site.pages %}{% if page.url != '/manifest.appcache' %}{{ page.url }}{% endif %}
 {% endfor %}
 {% for item in site.images %}{{ item.url }}
 {% endfor %}
