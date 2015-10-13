@@ -37,9 +37,14 @@ layout: default
 		</div>
 	{% endif %}
      {% include author-box.html %}
+
     </article>
-    
-       
+    <div>
+      <h3>Share on Social Networks:</h3>
+	     <button type="button" onclick="shareFacebook({{ post.url }},{{ post.title }})">Facebook</button> 
+	     <button type="button" onclick="shareTwitter({{ post.url }},{{ post.title }})">Twitter</button> 
+	     <button type="button" onclick="shareGooglePlus({{ post.url }},{{ post.title }})">Google+</button> 
+    </div>  
     
 
     
@@ -47,3 +52,17 @@ layout: default
    
 	</div>
 </div>
+     <script>
+     	function shareTwitter(url, text) {
+  open('http://twitter.com/share?url=' + url + '&text=' + text, 'tshare', 'height=400,width=550,resizable=1,toolbar=0,menubar=0,status=0,location=0');  
+}
+
+function shareFacebook(url, text, image) {
+  open('http://facebook.com/sharer.php?s=100&p[url]=' + url + '&p[images][0]=' + image + '&p[title]=' + text, 'fbshare', 'height=380,width=660,resizable=0,toolbar=0,menubar=0,status=0,location=0,scrollbars=0');
+}
+
+function shareGooglePlus(url) {
+  open('https://plus.google.com/share?url=' + url, 'gshare', 'height=270,width=630,resizable=0,toolbar=0,menubar=0,status=0,location=0,scrollbars=0');
+}
+     	
+     </script>
