@@ -5,7 +5,7 @@ permalink: /resources/
 
 Documentation is the biggest assest in this digital world.As programmers we all know how important it is even a binary value and its importance of documenting them.We at CoderLogue encourage to blog or contribute a post to us on programming.We are happy to include your blog in our resources too if it is clear and easy to learn.<br/> <br/>
 
-Here are the list of few resources to follow and to inspire from other bloggers: 
+Here are the list of few resources to follow and to inspire from other bloggers: <br/>
 [David Walsh Blog](http://davidwalsh.name/) <br/>
 [Css-Tricks](https://css-tricks.com/) <br/>
 [Adam Khoury](https://www.developphp.com/) <br/>
