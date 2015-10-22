@@ -4,7 +4,7 @@ permalink: /contribute/
 ---
 
 Thanks for showing your interest in contributing to our project! Your contributons are valuable to us.If you’re new to Jekyll  and need some help in contributing you can ping us.We are happy to help you and we treat your contributions as our assests. 
-<br/><br/>
+<br/>
 <h3> Are you thinking about the  skills that you need to contribute? </h3> <br/>
 Our blog is built on jekyll.So we expect that you know basics of jekyll but no worries if you are new to jekyll.It is static site generator framework and quite simple to use.Here is a link that shows how to [contribute to the project](https://github.com/coderlogue/coderlogue.github.io/wiki/Contribute) (For Newbies).<br/><br/>A basic knowledge on HTML & Markdown is helpful while blogging.Markdown is a mainly used for writting/blogging and quite easy to use.links for the markdown syntax are also provided in the references section of this [wiki page](https://github.com/coderlogue/coderlogue.github.io/wiki/Contribute).
 <br/><br/>
