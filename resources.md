@@ -9,7 +9,9 @@ We at CoderLogue encourages you to blog yourself as well as to contribute guest 
 Here are the list of few resources to follow and to learn from other blogs: <br/>
 [David Walsh Blog](http://davidwalsh.name/) <br/>
 [CSS-Tricks](https://css-tricks.com/) <br/>
+[Christian-Heilman Blog](https://www.christianheilmann.com) <br/>
 [Adam Khoury](https://www.developphp.com/) <br/>
+[Web-components](http://webcomponents.org/) <br/>
 [Kirupa.com](http://www.kirupa.com/) <br/>
 [Html5 Rocks](http://www.html5rocks.com/en/) <br/>
 [Mozilla Hacks](https://hacks.mozilla.org/) <br/>
