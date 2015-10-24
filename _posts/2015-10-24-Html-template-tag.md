@@ -39,7 +39,7 @@ temp_parent.innerHTML += temp_contents;
 Here is the [demo](http://jsbin.com/qaxiw/7/edit?html,js,output)<br/>
 
 ### More References : <br/>
-1)Post by Christian Heilman :[USING TEMPLATE TO DELAY LOADING OF IMAGES](https://www.christianheilmann.com/2015/09/08/quick-trick-using-template-to-delay-loading-of-images/?utm_content=bufferdda9b&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer) <br/>
+1)Post by Christian Heilman : [USING TEMPLATE TO DELAY LOADING OF IMAGES](https://www.christianheilmann.com/2015/09/08/quick-trick-using-template-to-delay-loading-of-images/?utm_content=bufferdda9b&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer) <br/>
 2) [Introduction To Template Element](http://webcomponents.org/articles/introduction-to-template-element/) by Web Components.
 
 
