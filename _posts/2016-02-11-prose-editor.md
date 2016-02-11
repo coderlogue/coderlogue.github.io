@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Prose-Editor.md"
+title: "Github's Prose Editor"
 ---
 
 **Prose: Github Content Editor** <br/>
