@@ -13,7 +13,7 @@ They named the Content Editor as Prose. To use Prose one needs to login into the
 
 _**Note:**_  URL should look like this:  _http://prose.io/#sudarshanReddyKurri_ 
 <br/>
-For Indepth Reference: [prose](https://github.com/prose/prose/wiki/Getting-Started) 
+For Indepth Reference: [Prose](https://github.com/prose/prose/wiki/Getting-Started) 
  
 
  
