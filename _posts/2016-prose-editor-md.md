@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "2016-02-11-Prose-Editor.md"
 ---
 
