@@ -7,11 +7,11 @@ author: Sudarshan
 The HTML template element is a mechanism to hold client-side content,so that the content is not rendered when a page is loaded but it may subsequently be instantiated during the runtime using JavaScript.<br/>
 
 ### Syntax of template tag:
-{% highlight html %}
-<template>
-
-</template>
-{% endhighlight %}
+    {% highlight html %}
+    <template>
+    
+    </template>
+    {% endhighlight %}
 
 ### Why to use template? <br/>
 Template is an inert HTML tag.<br/>
