@@ -16,8 +16,7 @@ You can extend to your gmail address by adding modifiers .
 You can add modifiers of any length after adding the "+" symbol in your email address i.e., "+" followedby "modifier".    
 mainemail@gmail.com <-- same as --> mainemail+modifier@gmail.com <br/>
 {% highlight html %}
-Ex:
-    coderlogue@gmail.com 
+Ex: coderlogue@gmail.com 
     coderlogue+site@gmail.com 
     coderlogue+main@gmail.com 
 {% endhighlight %}
@@ -27,8 +26,7 @@ Gmail treats all these emails are same. <br/>
 Gmail Ignores the dots specified in your email address before [at]gmail[dot]com <br/>
 mainemail@gmail.com <-- same as --> main.email@gmail.com <br/>
 {% highlight html %}
-Ex: 
-    coderlogue@gmail.com
+Ex: coderlogue@gmail.com
     coder.logue@gmail.com 
     code.rlog.ue@gmail.com
 {% endhighlight %}  
