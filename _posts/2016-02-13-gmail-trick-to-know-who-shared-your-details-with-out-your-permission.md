@@ -13,18 +13,18 @@ These gmail trick's comes in handy to know who is spamming on you:
 ### Trick1: Extending the Gmail address
 You can extend to your gmail address by adding modifiers .
 You can add modifiers of any length after adding the "+" symbol in your email address i.e., "+" followedby "modifier".    
-mainemail@gmail.com <-- same as --> mainemail+[modifier]@gmail.com
-Ex: coderlogue@gmail.com
-    coderlogue+site@gmail.com
-    coderlogue+main@gmail.com
-Gmail treats all these emails are same.
+mainemail@gmail.com <-- same as --> mainemail+[modifier]@gmail.com <br/>
+Ex: coderlogue@gmail.com <br/>
+    coderlogue+site@gmail.com <br/>
+    coderlogue+main@gmail.com <br/>
+Gmail treats all these emails are same. <br/>
 
 ### Trick2: Gmail Igoners dots
-Gmail Ignores the dots specified in your email address before [at]gmail[dot]com
-mainemail@gmail.com <-- same as --> main.email@gmail.com
-Ex: coderlogue@gmail.com
-    coder.logue@gmail.com
-    code.rlog.ue@gmail.com
+Gmail Ignores the dots specified in your email address before [at]gmail[dot]com <br/>
+mainemail@gmail.com <-- same as --> main.email@gmail.com <br/>
+Ex: coderlogue@gmail.com <br/>
+    coder.logue@gmail.com <br/>
+    code.rlog.ue@gmail.com <br/>
     
 By inspecting the your email id from your spam emails you can figure out who shared your details to others.     
     
