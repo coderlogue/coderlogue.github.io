@@ -13,7 +13,7 @@ These gmail trick's comes in handy to know who is spamming on you:
 ### Trick1: Extending the Gmail address
 You can extend to your gmail address by adding modifiers .
 You can add modifiers of any length after adding the "+" symbol in your email address i.e., "+" followedby "modifier".    
-mainemail@gmail.com <-- same as --> mainemail+[modifier]@gmail.com <br/>
+mainemail@gmail.com <-- same as --> mainemail+modifier@gmail.com <br/>
 Ex: coderlogue@gmail.com <br/>
     coderlogue+site@gmail.com <br/>
     coderlogue+main@gmail.com <br/>
