@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Gmail Trick to know who shared your details with out your permission
 ---
 
