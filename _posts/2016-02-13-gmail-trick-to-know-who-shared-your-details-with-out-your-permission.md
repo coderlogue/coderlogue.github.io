@@ -5,8 +5,8 @@ title: Gmail Trick to know who shared your details with out your permission
 ---
 
 ##Gamil trick to know the real spammers
-
-Since Gmail being the best email service provider, these days we use it as loginid for other websites and it also serves as a medium for sharing files and for communication with others. But, we also suffer from the spam emails. You might have wondered how they got your email? Many of us have no answers for this and you can't trust the every person or the organisation with whom you share your email address. But few of these companies are earning a lot of money by selling your details.
+Since Gmail being the best email service provider, these days we use it as loginid for other websites and it also serves as a medium for sharing files and for communication with others. But, we also suffer from the spam emails.<br/>
+You might have wondered how they got your email? Many of us have no answers for this and you can't trust the every person or the organisation with whom you share your email address. But few of these companies are earning a lot of money by selling your details.
 
 These gmail trick's comes in handy to know who lets you receive those spam emails:
 
