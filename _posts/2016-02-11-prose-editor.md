@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: "Github's Prose Editor"
+image: jslice.png
 ---
 
 **Prose: Github Content Editor** <br/>
