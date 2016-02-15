@@ -35,5 +35,5 @@ The various functions which javascript provide is
 <li>beginPath() --Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.</li>
 </ol>
 The list goes on .............
-To know more about the canvas and its implementation refer click below .
+To know more about the canvas and its implementation click below .
 [Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
