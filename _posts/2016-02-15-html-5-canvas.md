@@ -16,10 +16,12 @@ With the recent development of HTML language  the new tag called CANVAS has chan
 {% endhighlight %}
 ### In Javascript
 {% highlight html %}
+<script>
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 ctx.fillStyle = "yellow";
 ctx.fillRect(0,0,150,75);
+</script>
 {% endhighlight %}
 ### output
 It looks like this rectangle of size 300x100 width and height respectively with the yellow color filled in it using function fillRect(0,0,150,75);
