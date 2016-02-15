@@ -23,16 +23,8 @@ ctx.fillStyle = "yellow";
 ctx.fillRect(0,0,150,75);
 </script>
 {% endhighlight %}
-### output
-It looks like this rectangle of size 300x100 width and height respectively with the yellow color filled in it using function fillRect(0,0,150,75);
-{% highlight html %}
-
-![Untitled.png]({{site.baseurl}}/_posts/Untitled.png)
-
-
-{% endhighlight %}
-If you have observed by getting the element of the tag we can create lot stuff using the functions of javascript which looks even more cool .
-The things which we can do with Canvas is the below list 
+If you have observed by getting the element id of the tag we can create lot stuff using the functions of javascript which looks even more cool .
+** The things which we can do with Canvas is the below list **
 * Drawing shapes
 * Animations
 * Playing with pixels of a Image
