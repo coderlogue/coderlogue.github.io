@@ -29,11 +29,12 @@ It looks like this rectangle of size 300x100 width and height respectively with 
 
 ![Untitled.png]({{site.baseurl}}/_posts/Untitled.png)
 
+
 {% endhighlight %}
 If you have observed by getting the element of the tag we can create lot stuff using the functions of javascript which looks even more cool .
 The things which we can do with Canvas is the below list 
-1. Drawing shapes
-2.Animations
-3.Playing with pixels of a Image
-4.Text Formation 
-5.Alphabets drawing
+* Drawing shapes
+* Animations
+* Playing with pixels of a Image
+* Text Formation 
+* Alphabets drawing
