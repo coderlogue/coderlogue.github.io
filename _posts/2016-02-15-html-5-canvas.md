@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+author: Sanjay
 title: "Html 5 Canvas "
 ---
 
