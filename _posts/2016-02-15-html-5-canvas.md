@@ -26,7 +26,7 @@ ctx.fillRect(0,0,150,75);
 
 ![alt text]https://github.com/coderlogue/coderlogue.github.io/blob/master/_posts/Untitled.png
 If you have observed by getting the element id of the tag we can create lot stuff using the functions of javascript which looks even more cool .
-The various functions which javascript provide is 
+The various functions which javascript provide is .
 1.fillStyle
 2.fillRect
 3.
