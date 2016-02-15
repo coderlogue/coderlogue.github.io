@@ -17,16 +17,14 @@ With the recent development of HTML language  the new tag called CANVAS has chan
 ### In Javascript
 {% highlight html %}
 <script>
+```javascript
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 ctx.fillStyle = "yellow";
 ctx.fillRect(0,0,150,75);
+```
 </script>
 {% endhighlight %}
+
+![alt text]https://github.com/coderlogue/coderlogue.github.io/blob/master/_posts/Untitled.png
 If you have observed by getting the element id of the tag we can create lot stuff using the functions of javascript which looks even more cool .
-** The things which we can do with Canvas is the below list **
-* Drawing shapes
-* Animations
-* Playing with pixels of a Image
-* Text Formation 
-* Alphabets drawing
