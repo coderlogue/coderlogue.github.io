@@ -26,9 +26,13 @@ ctx.fillRect(0,0,150,75);
 If you have observed by getting the element id of the tag we can create lot stuff using the functions of javascript which looks even more cool .
 The various functions which javascript provide is 
 <ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
+<li>fillStyle</li> asdsadsad
+<li>fillRect</li>
+<li>fillStyle</li>
+<li>strokeStyle</li>
+<li>strokeRect</li>
+<li>clearRect</li>
+<li>beginPath</li>
 </ol>
 
 
