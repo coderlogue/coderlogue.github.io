@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Getting-Sarted-Guide-for-Cygwin"
+title: "Getting Sarted Guide with Cygwin"
 ---
 
 Windows Operating System is well known for Graphical User Interface and easy to work with. But the Problem is GUI based softwares doesn't provide the flexibility and the features that CUI based tools provides and there are wide range of reasons for that. Lets not dig deep into these reasons.<br/>
